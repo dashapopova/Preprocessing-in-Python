@@ -23,7 +23,7 @@ Fr, 18.10 -- 21.00
     <th>Reference</th>
   </tr>
    <tr>
-    <td>07.09.</td>
+    <td>08.09.</td>
     <td> Regular expressions I </td>
     <td></td>
     <td></td>
