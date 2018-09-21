@@ -66,28 +66,28 @@ Fr, 18.10 -- 21.00
     <td></td>
    </tr>
     <tr>
-    <td>29.09</td>
-    <td>Regular expressions</td>
+    <td>28.09</td>
+    <td>Regular expressions II</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>6.10</td>
+    <td>5.10</td>
     <td>Text manipulation. Morphology</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>13.10</td>
+    <td>12.10</td>
     <td>Internet data I</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>20.10</td>
+    <td>19.10</td>
     <td>Internet data II</td>
     <td></td>
     <td></td>
