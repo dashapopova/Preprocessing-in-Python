@@ -35,7 +35,7 @@ Fr, 18.10 -- 21.00
     <td> 1. Interacting with Python and basic functions<br>
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
-    <td>9am 28.09</td>
+    <td>28.09 09:00</td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
       2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
       3. <a href="https://docs.python.org/3.6/tutorial/datastructures.html">lists</a><br>
@@ -48,7 +48,7 @@ Fr, 18.10 -- 21.00
     <td> 1. Control structures <br>
       2. <a href="./input-output.md">Input--Output</a><br>
       3. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
-    <td>1. <a href="./python101hw3.py">HW3</a><br>
+    <td>1. <a href="./python101hw3.py">HW2</a><br>
     2. <a href="./alice.txt">alice file</a><br>
     3. <a href="./googlebooks.txt">googlebooks file</a></td>
     <td> 28.09 09:00</td>
