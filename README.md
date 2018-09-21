@@ -81,14 +81,14 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>13.10</td>
-    <td>Internet data</td>
+    <td>Internet data I</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>20.10</td>
-    <td>Final project presentations</td>
+    <td>Internet data II</td>
     <td></td>
     <td></td>
     <td></td>
