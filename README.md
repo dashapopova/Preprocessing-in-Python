@@ -27,7 +27,7 @@ Fr, 18.10 -- 21.00
     <td> Regular expressions I </td>
     <td></td>
     <td></td>
-    <td><a href="https://docs.python.org/3.6/library/stdtypes.html#boolean-operators">booleans</a>
+    <td><a href="https://docs.python.org/3.6/library/re.html">re</a>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ Fr, 18.10 -- 21.00
     <td> 1. Interacting with Python and basic functions<br>
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
-    <td>17.09 21:00</td>
+    <td>9am 28.09</td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
       2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
       3. <a href="https://docs.python.org/3.6/tutorial/datastructures.html">lists</a><br>
@@ -50,7 +50,7 @@ Fr, 18.10 -- 21.00
     <td><a href="./python101hw2.py">HW2</a><br>
       <a href="./python101hw2comments.md">HW2 Comments</a>
       </td>
-    <td>22.09 12:00</td>
+    <td>9am 28.09</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
       </td>
