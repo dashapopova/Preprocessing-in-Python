@@ -48,7 +48,7 @@ Fr, 18.10 -- 21.00
     <td> 1. Control structures <br>
       2. <a href="./input-output.md">Input--Output</a><br>
       3. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
-    <td>1. <a href="./python101hw3.py">HW2</a><br>
+    <td>1. <a href="./preprocessinghw2.py">HW2</a><br>
     2. <a href="./alice.txt">alice file</a><br>
     3. <a href="./googlebooks.txt">googlebooks file</a></td>
     <td> 28.09 09:00</td>
