@@ -48,10 +48,8 @@ Fr, 18.10 -- 21.00
     <td> 1. Control structures <br>
       2. <a href="./inputOutput.md">Input--Output</a><br>
       3. <a href="./modules.md">Subroutines and modules</a></td>
-    <td>1. <a href="./preprocessinghw2.py">HW2</a><br>
-    2. <a href="./alice.txt">alice file</a><br>
-    3. <a href="./googlebooks.txt">googlebooks file</a></td>
-    <td> 05.10 09:00</td>
+    <td></td>
+    <td></td>
     <td>1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a></td>
    </tr>
