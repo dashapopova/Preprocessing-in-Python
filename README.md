@@ -58,7 +58,7 @@ Fr, 18.10 -- 21.00
     <td>Regular expressions II</td>
     <td>HW2</td>
     <td>5.10 09:00</td>
-    <td></td>
+    <td><a href="./onfunctions.md">On functions</a></td>
   </tr>
     <tr>
     <td>5.10</td>
