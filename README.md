@@ -56,7 +56,7 @@ Fr, 18.10 -- 21.00
    </tr>
     <tr>
     <td>28.09</td>
-    <td>Regular expressions II</td>
+    <td><a href="./regexpr.md">Regular expressions II</a></td>
     <td>1. <a href="./preprocessinghw2.py">HW2</a> <br>
      2. <a href="./alice.txt">alice file</a><br>
      3. <a href="./googlebooks.txt">googlebooks file</a><br>
