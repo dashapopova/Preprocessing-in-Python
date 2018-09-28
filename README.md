@@ -34,7 +34,8 @@ Fr, 18.10 -- 21.00
     <td>14.09.</td>
     <td> 1. Interacting with Python and basic functions<br>
       2. Datatypes and variables </td>
-    <td><a href="./preprocessingHW1.py">HW1</a></td>
+    <td>1. <a href="./preprocessingHW1.py">HW1</a><br>
+    2. <a href="./preprocessinghw1answers.py">HW1 solutions</a></td>
     <td>28.09 09:00</td>
     <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
       2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
