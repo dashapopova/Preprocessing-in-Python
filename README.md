@@ -56,8 +56,8 @@ Fr, 18.10 -- 21.00
     <tr>
     <td>28.09</td>
     <td>Regular expressions II</td>
-    <td></td>
-    <td></td>
+    <td>HW2</td>
+    <td>5.10 09:00</td>
     <td></td>
   </tr>
     <tr>
