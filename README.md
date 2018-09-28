@@ -56,7 +56,10 @@ Fr, 18.10 -- 21.00
     <tr>
     <td>28.09</td>
     <td>Regular expressions II</td>
-    <td>HW2</td>
+    <td>1. HW2 <br>
+     2. <a href="./alice.txt">alice file</a><br>
+     3. <a href="./googlebooks.txt">googlebooks file</a><br>
+     4. <a href="./preprocessinghw2tips.py">HW2 Tips Qs 1,2,4</a></td>
     <td>5.10 09:00</td>
     <td><a href="./onfunctions.md">On functions</a></td>
   </tr>
