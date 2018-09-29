@@ -63,7 +63,7 @@ Fr, 18.10 -- 21.00
      4. <a href="./preprocessinghw2tips.py">HW2 Tips Qs 1,2,4</a></td>
     <td>5.10 09:00</td>
     <td><a href="./onfunctions.md">On functions</a><br>
-      [Regular expressions cheat sheet](https://www.rexegg.com/regex-quickstart.html)
+      Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)
   </td>
   </tr>
     <tr>
