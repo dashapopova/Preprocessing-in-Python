@@ -68,7 +68,8 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>5.10</td>
-    <td><a href="./TextManipulation.ipynb">Text manipulation</a></td>
+    <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
+  <a href="./lxml_bs4.ipynb">Parsing HTML</a></td>
     <td></td>
     <td></td>
     <td></td>
