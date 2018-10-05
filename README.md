@@ -79,14 +79,14 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>12.10</td>
-    <td>Internet data I</td>
+    <td>Internet data II. Visualization</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>19.10</td>
-    <td>Internet data II</td>
+    <td>Computational Lexical Semantics. N-Grams</td>
     <td></td>
     <td></td>
     <td></td>
@@ -94,7 +94,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>?.11</td>
-    <td></td>
+    <td>CFGs, Probabilities, Neural Networks, Machine learning</td>
     <td></td>
     <td>Final Project is due:triumph:</td>
     <td></td>
