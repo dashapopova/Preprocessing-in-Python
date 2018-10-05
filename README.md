@@ -96,7 +96,7 @@ Fr, 18.10 -- 21.00
     <td>?.11</td>
     <td>CFGs, Probabilities, Neural Networks, Machine learning</td>
     <td></td>
-    <td>Final 9.11 Project is due:triumph:</td>
+    <td>9.11 Final Project is due:triumph:</td>
     <td></td>
   </tr>
 </table>
