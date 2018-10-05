@@ -1,6 +1,6 @@
-## Homework 4 Assignment -- due 12.10 by 9:00
+## Homework 3 Assignment -- due 12.10 by 9:00
 
-### Task 1: Initial Consonant Clusters \[10 points\]
+### The Task: Initial Consonant Clusters \[10 points\]
 
 Your task is to show me how to use pattern matching to investigate the distribution of
 word-initial consonant clusters in *Alice* (alice.txt). The basic question is how frequent different
