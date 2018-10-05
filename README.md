@@ -69,6 +69,7 @@ Fr, 18.10 -- 21.00
     <tr>
     <td>5.10</td>
     <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
+      <a href="./InternetData.ipynb">Internet data: urllib</a><br>
   <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
   <a href="./markdown.md">Markdown</a><br>
   Jupiter notebook</td>
