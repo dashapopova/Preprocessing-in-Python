@@ -73,15 +73,15 @@ Fr, 18.10 -- 21.00
   <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
   <a href="./markdown.md">Markdown</a><br>
   Jupiter notebook</td>
-    <td></td>
-    <td></td>
+    <td>HW3</td>
+    <td>12.10 9:00</td>
     <td></td>
   </tr>
     <tr>
     <td>12.10</td>
     <td>Internet data II. Visualization</td>
-    <td></td>
-    <td></td>
+    <td>HW4</td>
+    <td>19.10 9:00</td>
     <td></td>
   </tr>
     <tr>
