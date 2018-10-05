@@ -80,7 +80,7 @@ Fr, 18.10 -- 21.00
     <tr>
     <td>12.10</td>
     <td>Internet data II. Visualization</td>
-    <td>HW4</td>
+    <td>HW4 (the last one)</td>
     <td>19.10 9:00</td>
     <td></td>
   </tr>
