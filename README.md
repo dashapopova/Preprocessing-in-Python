@@ -68,7 +68,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>5.10</td>
-    <td>Text manipulation. Morphology</td>
+    <td>Text manipulation</td>
     <td></td>
     <td></td>
     <td></td>
@@ -85,6 +85,14 @@ Fr, 18.10 -- 21.00
     <td>Internet data II</td>
     <td></td>
     <td></td>
+    <td></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>?.11</td>
+    <td></td>
+    <td></td>
+    <td>Final Project is due:triumph:</td>
     <td></td>
   </tr>
 </table>
