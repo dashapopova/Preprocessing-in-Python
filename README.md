@@ -68,7 +68,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>5.10</td>
-    <td>Text manipulation</td>
+    <td><a href="./TextManipulation.ipynb">Text manipulation</a></td>
     <td></td>
     <td></td>
     <td></td>
