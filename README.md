@@ -69,8 +69,6 @@ Fr, 18.10 -- 21.00
     <tr>
     <td>5.10</td>
     <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
-      <a href="./InternetData.ipynb">Internet data: urllib</a><br>
-  <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
   <a href="./markdown.md">Markdown</a><br>
   Jupiter notebook</td>
     <td> <a href="./PPhw4.md">HW3</a></td>
@@ -79,7 +77,9 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>12.10</td>
-    <td>Internet data II. Visualization</td>
+    <td><a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
+  <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
+    Visualization</td>
     <td>HW4 (the last one)</td>
     <td>19.10 9:00</td>
     <td></td>
