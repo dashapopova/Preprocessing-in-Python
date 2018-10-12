@@ -82,7 +82,7 @@ Fr, 18.10 -- 21.00
     Visualization</td>
     <td>HW4 (the last one)</td>
     <td>19.10 9:00</td>
-    <td></td>
+    <td><a href="./finalprojectguidelines.md">Final Project Guidelines</a></td>
   </tr>
     <tr>
     <td>19.10</td>
