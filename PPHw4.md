@@ -18,7 +18,7 @@ Here you can find a lot of different types of plots: https://matplotlib.org/tuto
 + 1 point -- a toy data set is created;
 + 1 point -- plot type selection justification (say a few words about why you have chosen that particular plot type);
 + 1 point -- a plot;
-+ 1 point -- additional parameters of the plot (colour of the dots, width of the lines, lagend, lables for the dots etc.);
++ 1 point -- additional parameters of the plot (colour of the dots, width of the lines, legend, labels for the dots etc.);
 + 1 point -- the plot is saved (include the relevant piece of code) and submitted as a separate file.
 
 2.2 Choose a dataset (from a paper, handout, your own research) and plot it using `matplotlib` or any other library.
