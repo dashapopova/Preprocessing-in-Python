@@ -79,7 +79,7 @@ Fr, 18.10 -- 21.00
     <td>12.10</td>
     <td><a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
   <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
-    Visualization</td>
+    <a href="./visualization.ipynb">Visualization</a></td>
     <td>HW4 (the last one)</td>
     <td>19.10 9:00</td>
     <td><a href="./finalprojectguidelines.md">Final Project Guidelines</a></td>
