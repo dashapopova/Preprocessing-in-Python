@@ -23,4 +23,5 @@ Minus 2 points, if the write-up is poorly structured and unclear.
 19.10 -- e-mail me a preliminary idea or talk to me after class. You don't have to fully commit to this preliminary idea.
 
 whenever our next class is (possibly, 2.11) -- consultation
+
 09.11 -- the code and the write-up are due -- **no late work is accepted**
