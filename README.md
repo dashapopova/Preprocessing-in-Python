@@ -86,7 +86,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>19.10</td>
-    <td>Computational Lexical Semantics. N-Grams</td>
+    <td><a href="./CFGs.ipynb">Context-free grammars</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -94,7 +94,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>?.11</td>
-    <td>CFGs, Probabilities, Neural Networks, Machine learning</td>
+    <td>Computational Lexical Semantics, N-Grams, Probabilities, Neural Networks</td>
     <td></td>
     <td>9.11 Final Project is due:triumph:</td>
     <td></td>
