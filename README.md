@@ -86,7 +86,10 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>19.10</td>
-    <td><a href="./CFGs.ipynb">Context-free grammars</a></td>
+    <td><a href="./CFGs.ipynb">Context-free grammars</a><br>
+      <a href="./mystem.md">Mystem</a><br>
+      <a href="./mystemPython.ipynb">Mystem in Python</a><br>
+  </td>
     <td></td>
     <td></td>
     <td></td>
