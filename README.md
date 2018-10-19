@@ -88,7 +88,7 @@ Fr, 18.10 -- 21.00
     <td>19.10</td>
     <td><a href="./CFGs.ipynb">Context-free grammars</a><br>
       <a href="./mystem.md">Mystem</a><br>
-      <a href="./mystemPython.ipynb">Mystem in Python</a><br>
+      <a href="./MystemPython.ipynb">Mystem in Python</a><br>
   </td>
     <td></td>
     <td></td>
@@ -97,7 +97,7 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>?.11</td>
-    <td>Computational Lexical Semantics, N-Grams, Probabilities, Neural Networks</td>
+    <td>Computational Lexical Semantics, N-Grams, Probabilities, <a href="./NN.ipynb">Neural Networks</a></td>
     <td></td>
     <td>9.11 Final Project is due:triumph:</td>
     <td></td>
