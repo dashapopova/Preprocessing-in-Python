@@ -97,8 +97,8 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>?.11</td>
-    <td>Computational Lexical Semantics, N-Grams, Probabilities, <a href="./NN.ipynb">Neural Networks</a></td>
     <td></td>
+    <td><a href="./HW4_solution.ipynb">HW4 solution</a></td>
     <td>9.11 Final Project is due:triumph:</td>
     <td></td>
   </tr>
