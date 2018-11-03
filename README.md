@@ -97,10 +97,11 @@ Fr, 18.10 -- 21.00
   </tr>
     <tr>
     <td>3.11</td>
-    <td></td>
+    <td>JSON<br>
+  Consultation</td>
     <td><a href="./HW4_solution.ipynb">HW3 solution</a></td>
     <td>9.11 Final Project is due:triumph:</td>
-    <td></td>
+    <td>HTML: https://www.w3schools.com/html/html_intro.asp</td>
   </tr>
 </table>
 
