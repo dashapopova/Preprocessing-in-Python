@@ -96,7 +96,7 @@ Fr, 18.10 -- 21.00
   </tr>
   </tr>
     <tr>
-    <td>?.11</td>
+    <td>3.11</td>
     <td></td>
     <td><a href="./HW4_solution.ipynb">HW3 solution</a></td>
     <td>9.11 Final Project is due:triumph:</td>
